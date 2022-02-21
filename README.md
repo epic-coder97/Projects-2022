@@ -1,2 +1,2 @@
 # Projects-2022
-Here I will upload projects 
+Simple notebooks for things that learned in my coursework.
